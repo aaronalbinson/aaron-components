@@ -881,3 +881,7 @@ code .token {
     position: relative;
     left: auto
 }
+
+.demo_preview_content {
+    width: 100%;
+}
