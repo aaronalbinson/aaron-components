@@ -2,6 +2,11 @@
 
 ## Primary
 ```html preview
+<style>
+  .button {
+    border-radius: 0;
+  }
+</style>
 <button class="button">
   <span>Buy now</span>
 </button>
@@ -14,10 +19,10 @@
 
 ## Full width
 ```html preview
-<button class="button button--full-width ">Full width</p>
+<button class="button button--full-width">Full width</p>
 ```
 
 ## Share button
 ```html preview
-<button class="share-button__button">Share</p>
+<button class="shareButton__button">Share</p>
 ```
